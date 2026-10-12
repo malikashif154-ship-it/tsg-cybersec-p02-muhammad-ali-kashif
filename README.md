@@ -9,7 +9,7 @@ Program: The Sky Gen Cyber Security Program
 
 Date: 6 October 2026
 
-Project Overview
+Project Overview:
 This project analyzes five phishing emails obtained from public cybersecurity repositories. It examines how attackers use sender impersonation, suspicious domains, misleading links, email-authentication weaknesses and social-engineering techniques to deceive users.
 The project also includes practical awareness material for non-technical employees: an A3 poster, a one-page employee guide and a ten-question quiz with an answer key.
 Objectives
@@ -30,18 +30,29 @@ Sample	Phishing theme	Main indicators	Risk
 
 
 Repository Contents
+
 tsg-cybersec-p02-muhammad-ali-kashif/
+
 |- README.md
+
 |- tsg-cybersec-p02-muhammad-ali-kashif-final-submission.pdf
+
 |- report/
+
 |  `- tsg-cybersec-p02-muhammad-ali-kashif-analysis-report.pdf
+
 |- awareness-material/
+
 |  |- tsg-cybersec-p02-muhammad-ali-kashif-awareness-poster.pdf
+
 |  |- tsg-cybersec-p02-muhammad-ali-kashif-awareness-poster.png
+
 |  `- tsg-cybersec-p02-muhammad-ali-kashif-employee-guide.pdf
 `- quiz/
+
    `- tsg-cybersec-p02-muhammad-ali-kashif-awareness-quiz.pdf
-Safe Analysis Method
+   
+Safe Analysis Method:
 1. The samples were reviewed as raw or documented email evidence.
 2. No suspicious link or attachment was opened.
 3. URLs and domains were defanged or described without making them clickable.

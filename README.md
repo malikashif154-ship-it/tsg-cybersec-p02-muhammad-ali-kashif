@@ -1,9 +1,14 @@
 # tsg-cybersec-p02-muhammad-ali-kashif
 Phishing Analysis and Awareness Campaign
+
 Cyber Security Project 02 - Beginner Level
+
 Prepared by: Muhammad Ali Kashif
+
 Program: The Sky Gen Cyber Security Program
+
 Date: 6 October 2026
+
 Project Overview
 This project analyzes five phishing emails obtained from public cybersecurity repositories. It examines how attackers use sender impersonation, suspicious domains, misleading links, email-authentication weaknesses and social-engineering techniques to deceive users.
 The project also includes practical awareness material for non-technical employees: an A3 poster, a one-page employee guide and a ten-question quiz with an answer key.
